@@ -1,6 +1,4 @@
 // adapted from Daniel Shiffman
-// http://codingtra.in
-// http://patreon.com/codingtrain
 // https://youtu.be/AaGK-fj-BAM
 
 Snake s;
